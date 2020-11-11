@@ -1,0 +1,1 @@
+# sitecore-linkdatabase-provider
